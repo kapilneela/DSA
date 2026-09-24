@@ -1,2 +1,2 @@
 # DSA
-Python DSA Repo
+Python Practice Repo
